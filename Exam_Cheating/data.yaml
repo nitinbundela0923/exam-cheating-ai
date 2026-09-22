@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['Cheat_Sheet', 'Earpiece', 'Empty_Desk', 'Gaze_Aversion', 'Head_Down_Extreme', 'Looking_Around', 'Mobile_Phone', 'Normal_Focus', 'Normal_Writing', 'Turning_Back']
+
+roboflow:
+  workspace: tesischiko
+  project: exam-cheating-zegfe
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tesischiko/exam-cheating-zegfe/dataset/2

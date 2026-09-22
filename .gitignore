@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+runs/
+*.pt
+*.onnx
+
+Exam_Cheating/train/
+Exam_Cheating/valid/
+Exam_Cheating/test/
+
+.DS_Store
