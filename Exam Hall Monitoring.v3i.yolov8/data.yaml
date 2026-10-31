@@ -1,0 +1,9 @@
+path: /Users/mac1067/Documents/exam_cheating_ai/Exam Hall Monitoring.v3i.yolov8
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names:
+  0: Cheating
+  1: Not_Cheating

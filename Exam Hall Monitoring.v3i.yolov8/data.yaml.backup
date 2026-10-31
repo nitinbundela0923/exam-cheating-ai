@@ -1,0 +1,6 @@
+path: .
+train: train/images
+val: valid/images
+test: test/images
+nc: 4
+names: ['class0','class1','class2','class3']

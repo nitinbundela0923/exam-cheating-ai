@@ -12,7 +12,6 @@ __pycache__/
 runs/
 
 # Large datasets
-Exam Hall Monitoring.v3i.yolov8/
 Exam Hall Monitoring.v3i.yolov8_new/
 clean_dataset_v3/
 clean_dataset_2class_v1/
