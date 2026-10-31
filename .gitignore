@@ -1,0 +1,44 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# YOLO training runs
+runs/
+
+# Large datasets
+Exam Hall Monitoring.v3i.yolov8/
+Exam Hall Monitoring.v3i.yolov8_new/
+clean_dataset_v3/
+clean_dataset_2class_v1/
+source_split_v1/
+
+# Model files
+*.pt
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Large generated images and reports
+*.jpg
+*.jpeg
+*.png
+
+# Backups
+backups/
+model_backups/
+
+# Generated review folders
+video_review/
+label_preview_v3/
+class_mapping_review/
+
+# CSV reports
+near_duplicate_report.csv
