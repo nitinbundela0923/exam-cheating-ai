@@ -39,7 +39,7 @@ ROOT = Path(__file__).resolve().parent
 MODEL_PATH = (
     ROOT
     / "Exam Hall Monitoring.v3i.yolov8"
-    / "runs/detect/runs/detect/merged_2class/weights/best.pt"
+    / "best.pt"
 )
 
 
